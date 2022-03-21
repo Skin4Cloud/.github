@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-🩺🏥 The propuse of this organization is to manage all Skin4Cloud projects projects.
+🩺🏥 The propuse of this organization is to manage all Skin4Cloud projects.
 <!--
 
 **Here are some ideas to get you started:**
