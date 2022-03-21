@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-🩺🏥 The propuse of this organization is to manage all Skin4Cloud projects.
+🩺🏥 The porpuse of this organization is to manage all Skin4Cloud projects. Almost all of them will be private repositories, only accessible by company members
 <!--
 
 **Here are some ideas to get you started:**
